@@ -1,1 +1,2 @@
-# SAVER
+# Overview
+Autonomous boat to assist astronauts in water. Worked on motion, sensors, and controls. Set up an IMU with PID to control motor input for stability, implemented sensors for object detection, implemented KeberoseSDR to locate a distress signal, and mitigated sensor noise. Made drone autonomous and stable/reliable. Manufactured self-righting carbon fiber hull, designed an electronics bay, and optimized layout and center of mass. Distributed workload, set targets for teams, and resolved internal conflict.
